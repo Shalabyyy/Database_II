@@ -1,0 +1,7 @@
+Table Name,Column Name,Column Type,Key,Indexed
+Person,TouchDate,java.util.Date,False,False
+Person,date_of_birth,java.util.Date,False,False
+Person,city,java.lang.String,False,False
+Person,number_of_kids,java.lang.Integer,False,False
+Person,full_name,java.lang.String,False,False
+Person,id,java.lang.Integer,True,False
